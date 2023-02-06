@@ -44,4 +44,4 @@ _plugins
 _tdeps
 logs
 doc
-priv/ex_doc
+# priv/ex_doc

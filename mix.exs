@@ -23,7 +23,7 @@ defmodule RebarHexDoc.MixProject do
 
   defp deps do
     [
-      {:ex_doc, "~> 0.29.1"}
+      {:ex_doc, git: "https://github.com/the-mikedavis/ex_doc", ref: "06fec894c341f10b7fe0dc801bf2c932d27c9353"}
     ]
   end
 end
